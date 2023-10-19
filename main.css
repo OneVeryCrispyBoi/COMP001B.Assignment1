@@ -4,13 +4,17 @@ h1 {
 }
 .question {
     font-weight: bold;
-}
-#content1 {
-    
+    font-size: 140%;
 }
 index.html{
     background-color: aqua;
 }
 html{
     background-color: rgb(160, 160, 160);
+}
+#content1{
+    font-size: 110%;
+}
+#content2{
+    font-size: 110%;
 }
